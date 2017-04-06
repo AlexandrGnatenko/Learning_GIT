@@ -1,0 +1,2 @@
+alarm("Goodbye world")
+alarm("Goodbye")
