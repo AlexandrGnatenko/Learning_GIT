@@ -1,3 +1,4 @@
 alarm ("Hello world");
 alarm ("Hello everybody")
 alarm ("Hello")
+alarm("Hello my dear freand")
